@@ -1,0 +1,5 @@
+pip install requests
+pip install python-telegram-bot==20.7  # Use the latest compatible version
+pip install aiohttp
+pip install aiohttp_socks
+pip install asyncio
